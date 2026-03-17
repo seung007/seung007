@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**seung007/seung007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 1️⃣ GitHub는 왜 쓰는가?
 "GitHub를 쓰는 진짜 이유는 복합적인 생각의 흐름을 증명 하기 위해서 사용합니다."
 • 신뢰의 지표: 나는 이만큼 압니다라는 말보다 6개월간 꾸준히 쌓인 커밋 내역이 더 강력한 증거가 되어 증명이 됩니다.
